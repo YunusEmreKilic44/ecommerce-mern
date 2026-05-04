@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunusEmreKilic44/ecommerce-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/YunusEmreKilic44/ecommerce-mern/issues"
+  },
+  "homepage": "https://github.com/YunusEmreKilic44/ecommerce-mern#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
